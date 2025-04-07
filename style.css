@@ -198,7 +198,7 @@ header p{
   }
 
   .attribution {
-    position: fixed;
+    height: 30px;
     bottom: 20px; 
     font-size: 11px; 
     text-align: center; 
